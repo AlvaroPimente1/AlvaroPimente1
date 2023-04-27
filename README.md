@@ -11,5 +11,5 @@
   <h2>Linguagens e ferramentas que mais utilizo:</h2>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/reactjs-original.svg" width="40" height="40"/>
           
