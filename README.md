@@ -9,6 +9,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroPimente1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   <h2>Minhas Linguagens e ferramentas que mais uso:</h2>
-  
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
           
