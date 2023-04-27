@@ -1,6 +1,6 @@
-<div>
+<div style="flex-direction="row">
     <h2>Olá! Meu nome é Alvaro Augusto Pimentel! e seja bem vindo(a) ao meu perfil do GitHub!!👋</h2>
-    <img src="images/octocat-1682632619351.png" width="40" height="40"/>
+    <img src="images/octocat-1682632619351.png" width="70" height="70"/>
 </div>
 <ul>
   <li>Atualmente cursando o 7 semestre de Ciência da Computação no CESUPA</li>
