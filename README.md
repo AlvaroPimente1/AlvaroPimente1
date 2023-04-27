@@ -1,12 +1,8 @@
-<div style="flex-direction="row">
-    <h2>Olá! Meu nome é Alvaro Augusto Pimentel! e seja bem vindo(a) ao meu perfil do GitHub!!👋</h2>
-    <img src="images/octocat-1682632619351.png" width="70" height="70"/>
-</div>
+<h2>Olá! Meu nome é Alvaro Augusto Pimentel! e seja bem vindo(a) ao meu perfil do GitHub!!👋</h2>
 <ul>
   <li>Atualmente cursando o 7 semestre de Ciência da Computação no CESUPA</li>
   <li>Atualmente estagiando na Fundação Hemopa</li>
 </ul>
-
 <h2>Linguagens e ferramentas que mais utilizo</h2>
 <h4>Linguagens:</h4>
     <div>
@@ -26,5 +22,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
           
   </div>
+  
 
    
