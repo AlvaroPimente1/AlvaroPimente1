@@ -14,7 +14,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/>
   </div>
 <br/>
-<h4>Ferramentas:</h4>
+<h4>Tecnologias:</h4>
   <div>   
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
