@@ -1,7 +1,6 @@
 <h2>Olá! Meu nome é Alvaro Augusto Pimentel! e seja bem vindo(a) ao meu perfil do GitHub!!😎👋</h2>
 <ul>
-  <li>🏢 Atualmente cursando o 8 semestre de Ciência da Computação no CESUPA</li>
-  <li>🩸 Atualmente estagiando na Fundação Hemopa</li>
+  <li>🏢 Formado em Ciência da Computação pelo CESUPA</li>
 </ul>
 <h2>Linguagens e ferramentas que mais utilizo</h2>
 <h4>Linguagens:</h4>
